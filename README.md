@@ -1,2 +1,2 @@
 # PowerBi
-Dashboards referentes a negócios
+Dashboards referentes ao contexto de negócios.
